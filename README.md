@@ -64,3 +64,9 @@ REINICIAR: reinicia la partida.
 ```
 ### Referencias
 [Commons CLI 1.2](https://commons.apache.org/proper/commons-cli/)
+
+### Licencia 
+
+MIT License
+
+Copyright (c) 2016 Marcelino Pérez
